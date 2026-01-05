@@ -1,0 +1,14 @@
+opencv-python
+mediapipe
+scikit-learn
+pandas
+numpy
+pyttsx3
+psutil
+pyautogui
+SpeechRecognition
+pyaudio
+fastapi
+uvicorn[standard]
+websockets
+python-multipart
